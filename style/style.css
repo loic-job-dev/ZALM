@@ -1,0 +1,10 @@
+main {
+    background-color: blanchedalmond;
+    font-family: "Longbow BB";
+}
+
+header, footer {
+    background-color:darkred;
+    color :blanchedalmond;
+    font-family: "Longbow BB";
+}
