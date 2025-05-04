@@ -1,10 +1,16 @@
+.eagle-lake-regular {
+    font-family: "Eagle Lake", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
 main {
     background-color: blanchedalmond;
-    font-family: "Longbow BB";
+    font-family: "Eagle Lake";
 }
 
 header, footer {
     background-color:darkred;
     color :blanchedalmond;
-    font-family: "Longbow BB";
+    font-family: "Eagle Lake";
 }

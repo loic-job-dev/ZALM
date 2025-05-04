@@ -12,12 +12,10 @@ function getDatas () {
 }
 
 function ruleDisplay (dangerIndex, abominationUser) {
-    if (dangerIndex >= 0) {
         generalRules.forEach(rule => {
             if (rule.abomination == abominationUser && rule.dangerLevel == dangerIndex) {
                 showPV.innerHTML = rule.pv;
                 showRules.innerHTML = rule.rules;
             }
         })
-    }
 }
